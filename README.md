@@ -18,4 +18,6 @@
 
 - 휴리스틱 평가 함수
 
-## 핵심 폴더
+## 주요 클래스
+- 'GameResultChecker.cs': 게임 승패 판정 계산
+- 'GomokuAI.cs': 알고리즘 기반 오목AI
