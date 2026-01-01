@@ -1,1 +1,3 @@
-# omok-06
+# gomoku-06
+
+오목 Team Project 
